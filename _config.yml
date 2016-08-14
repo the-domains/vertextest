@@ -1,0 +1,14 @@
+layout_spectrum: 0.8139673967380077
+typography_spectrum: 0.8648168591316789
+color:
+  brandStrength: 0.6964643597602844
+  lightness: 0.355997150298208
+  saturation: 0.6471209845039994
+  rhythmicContrast: 0.4909684096928686
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: vertexTest
