@@ -1,4 +1,3 @@
-layout_spectrum: 0.8139673967380077
 typography_spectrum: 0.8648168591316789
 color:
   brandStrength: 0.6964643597602844
@@ -6,9 +5,11 @@ color:
   saturation: 0.6471209845039994
   rhythmicContrast: 0.4909684096928686
   brandColors:
-    - '#D2D1CD'
-    - '#FEFEFE'
-    - '#44BE4C'
-    - '#000000'
-    - '#383833'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.8139673967380077
 name: vertexTest
+title: Vertex Advertising
